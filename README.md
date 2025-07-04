@@ -46,7 +46,7 @@ A complete desktop-based travel management system built using **Java (Swing GUI)
 - `bookings`: User bookings
 - `payments`: Payment records
 
-See [`database.sql`](database.sql) for full schema.
+See mysql.txt file for full schema of my database.
 
 ---
 
