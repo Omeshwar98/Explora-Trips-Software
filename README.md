@@ -2,10 +2,6 @@
 
 A complete desktop-based travel management system built using **Java (Swing GUI)** and **MySQL**. This application helps manage Indian tour packages, customer bookings, and payments in an organized and user-friendly manner.
 
-![Uploading Screenshot 2025-04-03 151512.png…]()
-
-
-
 ---
 
 ## 📌 Features
